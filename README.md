@@ -8,8 +8,10 @@ Cloning-11-Digit
 #  pip install futures
 #  apt install git
 #  git clone https://github.com/Termux-Rhttps://github.com/Termux-Rihab/Cloning-11-Digit
-# cd Cloning-11-Digit
-# pysthon 11-Digit.py
+#  cd Cloning-11-Digit
+#  python2 11-Digit.py
+
+
 
 
 
