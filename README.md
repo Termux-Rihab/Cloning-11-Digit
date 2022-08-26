@@ -7,7 +7,7 @@ apt update && apt upgrade
 pip install bs4
  pip install futures
  apt install git
- git clone https://github.com/Termux-Rihab/290K-Cracker.git
+ git clone https://github.com/Termux-Rhttps://github.com/Termux-Rihab/Cloning-11-Digit
 
  cd 
  python 11-Digit.py
