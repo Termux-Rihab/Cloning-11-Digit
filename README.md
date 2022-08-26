@@ -7,7 +7,7 @@ Cloning-11-Digit
 #  pip install bs4
 #  pip install futures
 #  apt install git
-#  git clone https://github.com/Termux-Rhttps://github.com/Termux-Rihab/Cloning-11-Digit
+#  git clone https://github.com/Termux-Rihab/Cloning-11-Digit
 #  cd Cloning-11-Digit
 #  python2 11-Digit.py
 
