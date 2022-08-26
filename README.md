@@ -9,5 +9,5 @@ pip install bs4
  apt install git
  git clone https://github.com/Termux-Rhttps://github.com/Termux-Rihab/Cloning-11-Digit
 
- cd 
+ cd Cloning-11-Digit
  python 11-Digit.py
